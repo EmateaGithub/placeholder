@@ -1,0 +1,17 @@
+{
+  "name": "@ematea/placeholder",
+  "version": "1.0.0",
+  "description": "Under Development",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -l 3000 public"
+  },
+  "author": {
+    "name": "Timothy Foster",
+    "url": "https://auroratide.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^13.0.4"
+  }
+}
